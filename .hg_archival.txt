@@ -1,0 +1,6 @@
+repo: 8995db059447d044135fbe00e0b259af8f6790f5
+node: 9065849239cc2711534fc13496f2017304d62e58
+branch: trunk
+latesttag: stable
+latesttagdistance: 232
+changessincelatesttag: 339
